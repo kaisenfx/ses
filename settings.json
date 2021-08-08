@@ -1,0 +1,16 @@
+{
+  "tokens": [
+"",
+""],
+  "channels": [
+    "859451312415703050",
+    "859451332889149460"],
+
+  "staffRoles": [
+    "853739548495708192"],
+
+  "unregisterRoles": ["853739553638842399"],
+
+  "welcomeSound": "https://cdn.discordapp.com/attachments/837607150985543720/850420636869984306/Ses_009.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/837607150985543720/850420640016236574/Ses_011.mp3"
+}
